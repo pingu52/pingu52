@@ -54,7 +54,7 @@
    <img src = "https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
    <img src = "https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
 
-  
+  ![](https://github-readme-stats-pingu52s-projects.vercel.app/api?username=pingu52&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)
 
 
   
