@@ -9,28 +9,27 @@
   <br>
   
   <h3>🌱STACK🌱</h3>
-  <img src = "https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white">
+  <img src = "https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white">
   <img src = "https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src = "https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
   <br>
-  
   <br>
-  
-  <img src = "https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- <img src = "https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src = "https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src = "https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src = "https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  <br>
-  <img src = "https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src = "https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> -->
+  <!-- <br>
+  <br> -->
+  <!-- <img src = "https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src = "https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
-  <img src = "https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white">
-  <br>
-  <br>
+  <img src = "https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white"> -->
+  <!-- <br>
+  <br> -->
   
   <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src = "https://img.shields.io/badge/maria%20db-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src = "https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <!-- <img src = "https://img.shields.io/badge/maria%20db-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src = "https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> -->
   <img src = "https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white">
   
   <!--
@@ -43,21 +42,27 @@
    <br>
    <br>
    <img src = "https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-   <img src = "https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-   <img src = "https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+   <!-- <img src = "https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+   <img src = "https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> -->
 
    <br>
    <br>
    <img src = "https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
    <img src = "https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-   <img src = "https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
+   <!-- <img src = "https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"> -->
+   
+   <br>
+   <br>
+   <br>
 
 ![](https://github-readme-stats-pingu52s-projects.vercel.app/api?username=pingu52&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)
 
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=pingu52)](https://solved.ac/pingu52)
-
-  <img src="http://mazandi.herokuapp.com/api?handle=pingu52&theme=dracular" />
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=pingu52)](https://solved.ac/pingu52) <img src="http://mazandi.herokuapp.com/api?handle=pingu52&theme=dracular" />
 
 <a href="https://github.com/pingu52"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpingu52&count_bg=%23000000&title_bg%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+
+<!-- [![Top Lang](https://github-readme-stats-pingu52s-projects.vercel.app/api/top-langs/?username=pingu52&langs_count=10&layout=compact&theme=dark)](https://github.com/pingu52/pingu52) -->
+
+<a href="https://www.linkedin.com/in/hyeonggyun-kim-52b76b245"><img src = "https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
