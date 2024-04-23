@@ -57,7 +57,7 @@
 
 ![](https://github-readme-stats-pingu52s-projects.vercel.app/api?username=pingu52&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)
 
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=pingu52)](https://solved.ac/pingu52) <img src="http://mazandi.herokuapp.com/api?handle=pingu52&theme=dracular" />
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pingu52)](https://solved.ac/pingu52) <img src="http://mazandi.herokuapp.com/api?handle=pingu52&theme=dracular" />
 
 <a href="https://github.com/pingu52"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpingu52&count_bg=%23000000&title_bg%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
