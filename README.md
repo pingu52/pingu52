@@ -63,7 +63,6 @@
 
 <!-- [![Top Lang](https://github-readme-stats-pingu52s-projects.vercel.app/api/top-langs/?username=pingu52&langs_count=10&layout=compact&theme=dark)](https://github.com/pingu52/pingu52) -->
 
-<a href="https://www.linkedin.com/in/hyeonggyun-kim-52b76b245" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+<a href="https://www.linkedin.com/in/pingu52" target="blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
