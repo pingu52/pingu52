@@ -55,7 +55,7 @@
    <br>
    <br>
 
-![](https://github-readme-stats-pingu52s-projects.vercel.app/api?username=pingu52&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats-pingu52s-projects.vercel.app/api?username=pingu52&show_icons=true&theme=jolly&include_all_commits=true&count_private=true)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pingu52)](https://solved.ac/pingu52) <img src="http://mazandi.herokuapp.com/api?handle=pingu52&theme=dracular" />
 
