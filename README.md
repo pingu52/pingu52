@@ -143,12 +143,12 @@
   <h2>📊 GitHub Stats 📊</h2>
   <p>
     <img
-      src="https://github-readme-stats-pingu52s-projects.vercel.app/api?username=pingu52&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats-pingu52s-projects.vercel.app/api?username=pingu52&show_icons=true&theme=jolly&count_private=true"
       height="165"
       alt="GitHub Stats"
     />
     <img
-      src="https://github-readme-stats-pingu52s-projects.vercel.app/api/top-langs/?username=pingu52&langs_count=10&layout=compact&theme=jolly&hide=CSS,Javascript"
+      src="https://github-readme-stats-pingu52s-projects.vercel.app/api/top-langs/?username=pingu52&langs_count=10&layout=compact&theme=jolly&hide=CSS,Javascript,html"
       height="165"
       alt="Top Langs"
     />
