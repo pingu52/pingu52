@@ -139,8 +139,9 @@
     alt="divider"
   />
 
-  <!-- GitHub Stats -->
-  <h2>📊 GitHub Stats 📊</h2>
+  <!-- Development Stats -->
+  <h2>📊 Development Stats 📊</h2>
+
   <p>
     <img
       src="https://github-readme-stats-pingu52s-projects.vercel.app/api?username=pingu52&show_icons=true&theme=jolly&count_private=true"
@@ -154,8 +155,6 @@
     />
   </p>
 
-   <!-- Tokscale Stats -->
-  <h2>📈 Tokscale Stats 📈</h2>
   <p>
     <a
       href="https://tokscale.ai/u/pingu52"
