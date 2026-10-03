@@ -154,6 +154,21 @@
     />
   </p>
 
+   <!-- Tokscale Stats -->
+  <h2>📈 Tokscale Stats 📈</h2>
+  <p>
+    <a
+      href="https://tokscale.ai/u/pingu52"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://tokscale.ai/api/embed/pingu52/svg?graph=1&tokens=compact&cost=compact"
+        alt="Tokscale Stats"
+      />
+    </a>
+  </p>
+
   <!-- Baekjoon -->
   <h2>🏆 Baekjoon Online Judge 🏆</h2>
   <p>
